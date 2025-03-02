@@ -1,2 +1,1 @@
-# tlc-sml
-TLC Similarity
+# pyHPTLC - Python for High‐performance thin‐layer chromatography (HPTLC) chromatogram
